@@ -25,10 +25,6 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=stefygrr&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
- 
-    
-### Principais Projetos
-[![SaudeCheckUp](https://github-readme-stats.vercel.app/api/pin/?username=stefygrr&repo=saudeCheckupFrontend&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/saudeCheckupFrontend)
 
 
 ## Contacts:
