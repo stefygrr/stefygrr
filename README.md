@@ -20,9 +20,9 @@
 
 
 ### Linguagens mais utilizadas
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=stefygrr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-stefygrr.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<div  align="start" style="margin-bottom:100px">
+<img width=55% align="start"  src="https://github-readme-streak-stats.herokuapp.com?user=stefygrr&theme=radical&mode=weekly" />
+<img width=40% align="start" src="https://github-readme-stats-git-main-stefygrr.vercel.app/api/top-langs/?username=stefygrr&show_icons=true&theme=radical&layout=compact" />
  </div>
     
 ### Principais Projetos
