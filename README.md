@@ -20,10 +20,10 @@
 
 
 ### Linguagens mais utilizadas
-<div align="start">
-  <a href="https://github.com/stefygrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillePB&layout=compact&langs_count=7&theme=dracula&title_color=61DAFB&bg_color=0D1117&border_color=3793C9"/>
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=stefygrr&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-stefygrr.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
     
 ### Principais Projetos
 
