@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99CCCC&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!;Sejam+Bem-Vindos;Tenho+20+anos;Sou+Desenvolvedora+FullStack+Jr.;Tchauzinho+S2)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com/?color=99CCCC&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!;Sejam+Bem-Vindos;Tenho+20+anos;Sou+Desenvolvedora+FullStack+Jr.;Tchauzinho+S2)](https://git.io/typing-svg)
  
  ### Principais Habilidades:
 
